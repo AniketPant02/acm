@@ -6,6 +6,8 @@ https://leetcode.com/
 
 The contest lasts from 5:00 PM to 7:00 PM
 
+Let us know when you pass your test cases and we'll update your score.
+
 ## WARM UP
 
 #### Fizz Buzz  - `2 points`
