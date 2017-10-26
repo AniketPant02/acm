@@ -4,42 +4,42 @@
 Create an account on LeetCode to get started!
 https://leetcode.com/
 
-## Warm-Up
+## WARM UP
 
-### Fizz Buzz
+#### Fizz Buzz  - `2 points`
 https://leetcode.com/problems/fizz-buzz/description/
 
-## Easy
+## EASY
 
-### Valid Palindrome
+#### Valid Palindrome - `3 points`
 https://leetcode.com/problems/valid-palindrome/description/
 
-### Is Circular Route
+#### Is Circular Route - `3 points`
 https://leetcode.com/problems/judge-route-circle/description/
 
-### Two Sum with Binary Search Tree
+#### Two Sum with Binary Search Tree  - `5 points`
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 
 ## Medium
 
-### Valid Parentheses
-https://leetcode.com/problems/valid-parentheses/
-
-### Merge Two Sorted Linked Lists
+#### Merge Two Sorted Linked Lists - `7 points`
 https://leetcode.com/problems/merge-two-sorted-lists/description/
 
-### Can Form Ransom Note
+#### Can Form Ransom Note - `8 points`
 https://leetcode.com/problems/ransom-note/description/
+
+#### Valid Parentheses - `9 points`
+https://leetcode.com/problems/valid-parentheses/
 
 ## Hard
 
-### Longest Increasing Subsequence
-https://leetcode.com/problems/longest-increasing-subsequence/description/
-
-### Spiral Matrix
+#### Spiral Matrix - `12 points`
 https://leetcode.com/problems/spiral-matrix/description/
+
+#### Longest Increasing Subsequence - `15 points`
+https://leetcode.com/problems/longest-increasing-subsequence/description/
 
 ## Challenge
 
-### N-Queens
+#### N-Queens - `30 points`
 https://leetcode.com/problems/n-queens/description/
