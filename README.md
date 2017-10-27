@@ -1,6 +1,11 @@
 
 # ACM Coding Challenge
 
+### (EDIT) The contest has ended. See the results here: 
+https://github.com/uab-cs/acm/blob/master/results.pdf
+
+---
+
 Create an account on LeetCode to get started!
 https://leetcode.com/
 
